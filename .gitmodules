@@ -1,0 +1,3 @@
+[submodule "appState"]
+	path = appState
+	url = https://github.com/Kornflexx/git-module-app-state
